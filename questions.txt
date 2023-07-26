@@ -3,3 +3,5 @@
 2) https://leetcode.com/problems/russian-doll-envelopes/
 
 3) LIS using binary search
+
+4) https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/
