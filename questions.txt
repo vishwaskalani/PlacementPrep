@@ -5,3 +5,5 @@
 3) LIS using binary search
 
 4) https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/
+
+5) trie basic implementation - https://leetcode.com/problems/implement-trie-prefix-tree/
