@@ -1,3 +1,5 @@
 1) https://codeforces.com/contest/1850/problem/F
 
 2) https://leetcode.com/problems/russian-doll-envelopes/
+
+3) LIS using binary search
