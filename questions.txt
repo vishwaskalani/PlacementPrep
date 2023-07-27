@@ -11,3 +11,5 @@
 6) https://leetcode.com/problems/concatenated-words/
 
 7) https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
+8) https://leetcode.com/problems/matchsticks-to-square/
