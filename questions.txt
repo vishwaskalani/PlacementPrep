@@ -9,3 +9,5 @@
 5) trie basic implementation - https://leetcode.com/problems/implement-trie-prefix-tree/
 
 6) https://leetcode.com/problems/concatenated-words/
+
+7) https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
