@@ -17,3 +17,5 @@
 9) https://leetcode.com/problems/single-number-ii/
 
 10) https://leetcode.com/problems/single-number-iii/
+
+11) https://leetcode.com/problems/find-the-duplicate-number/
