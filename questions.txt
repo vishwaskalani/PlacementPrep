@@ -19,3 +19,5 @@
 10) https://leetcode.com/problems/single-number-iii/
 
 11) https://leetcode.com/problems/find-the-duplicate-number/
+
+12) https://leetcode.com/problems/bitwise-and-of-numbers-range/
