@@ -1,1 +1,10 @@
+1) Wake up and solve 2 puzzles in the morning. Try them for 10-15 minutes and then see the solution.
+
+2) Make a list of questions according to a topic on leetcode and continue solving problems from it daily.
+    Try each problem for 25-30  minutes.
+
+3) Give a virtual contest on leetcode daily according to the time possible.
+
+4) Meditate and be cool and calm :)
+
 
