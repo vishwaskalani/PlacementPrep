@@ -21,3 +21,6 @@
 11) https://leetcode.com/problems/find-the-duplicate-number/
 
 12) https://leetcode.com/problems/bitwise-and-of-numbers-range/
+
+13) digit dynamic programming
+  https://leetcode.com/problems/count-of-integers/
