@@ -25,4 +25,5 @@
 13) digit dynamic programming
   https://leetcode.com/problems/count-of-integers/
 
-14) https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony
+14) number of topological sorts of a directed tree
+https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/
