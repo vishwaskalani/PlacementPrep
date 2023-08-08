@@ -36,3 +36,6 @@ https://leetcode.com/problems/remove-boxes/
 
 17) dfs dsu
 https://leetcode.com/problems/accounts-merge/
+
+18) kruskal + dsu
+https://leetcode.com/problems/min-cost-to-connect-all-points/
