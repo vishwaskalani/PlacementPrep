@@ -33,3 +33,6 @@ https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/
 
 16) 3d dp difficult
 https://leetcode.com/problems/remove-boxes/
+
+17) dfs dsu
+https://leetcode.com/problems/accounts-merge/
