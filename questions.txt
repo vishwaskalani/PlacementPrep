@@ -39,3 +39,6 @@ https://leetcode.com/problems/accounts-merge/
 
 18) kruskal + dsu
 https://leetcode.com/problems/min-cost-to-connect-all-points/
+
+19) dp with binary search - very popular problem
+https://leetcode.com/problems/super-egg-drop/
