@@ -45,3 +45,6 @@ https://leetcode.com/problems/super-egg-drop/
 
 20) dp with small pattern observation
 https://codeforces.com/problemset/problem/1513/C
+
+21) Important greedy
+https://codeforces.com/problemset/problem/1492/C
