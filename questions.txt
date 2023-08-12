@@ -48,3 +48,6 @@ https://codeforces.com/problemset/problem/1513/C
 
 21) Important greedy
 https://codeforces.com/problemset/problem/1492/C
+
+22) Important greedy based but seems like lis dp (easy with lis dp but better with greedy)
+https://leetcode.com/problems/wiggle-subsequence/
