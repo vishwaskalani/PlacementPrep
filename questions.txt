@@ -54,3 +54,6 @@ https://leetcode.com/problems/wiggle-subsequence/
 
 23) Important pattern of questions (ugly number leetcode)
 https://leetcode.com/problems/super-ugly-number/
+
+24) Regex matching using dp
+https://leetcode.com/problems/regular-expression-matching/
