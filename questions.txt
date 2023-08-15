@@ -60,3 +60,6 @@ https://leetcode.com/problems/regular-expression-matching/
 
 25) Multiple iteration solution without 2d dp in knapsack
 https://leetcode.com/problems/coin-change-ii/submissions/
+
+26) Reverse iteration in knapsack to avoid repeated counting
+https://leetcode.com/problems/ones-and-zeroes/submissions/
