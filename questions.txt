@@ -66,3 +66,6 @@ https://leetcode.com/problems/ones-and-zeroes/submissions/
 
 27) Number of subsequences with a given value of bitwise and
 https://codeforces.com/problemset/problem/1829/H
+
+28) Greedy jump2 solution 
+https://leetcode.com/problems/jump-game-ii/
