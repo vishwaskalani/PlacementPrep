@@ -63,3 +63,6 @@ https://leetcode.com/problems/coin-change-ii/submissions/
 
 26) Reverse iteration in knapsack to avoid repeated counting
 https://leetcode.com/problems/ones-and-zeroes/submissions/
+
+27) Number of subsequences with a given value of bitwise and
+https://codeforces.com/problemset/problem/1829/H
