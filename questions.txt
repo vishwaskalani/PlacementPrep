@@ -69,3 +69,6 @@ https://codeforces.com/problemset/problem/1829/H
 
 28) Greedy jump2 solution 
 https://leetcode.com/problems/jump-game-ii/
+
+29)Dungeon game non intuitive dp
+https://leetcode.com/problems/dungeon-game/
