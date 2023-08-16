@@ -75,3 +75,6 @@ https://leetcode.com/problems/dungeon-game/
 
 30) Sliding window maximum one passing solution using map
 https://leetcode.com/problems/sliding-window-maximum/submissions/
+
+31) Segment tree basic implementation
+https://leetcode.com/problems/range-sum-query-mutable/submissions/
