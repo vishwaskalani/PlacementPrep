@@ -87,3 +87,6 @@ https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 
 34) Stack based tricky approach
 https://leetcode.com/problems/longest-valid-parentheses/submissions/1024880716/
+
+Same questions using dynamic programming based complex approach
+https://leetcode.com/problems/longest-valid-parentheses/submissions/
