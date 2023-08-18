@@ -84,3 +84,6 @@ https://leetcode.com/problems/find-median-from-data-stream/
 
 33) Double binary seach question
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+
+34) Stack based tricky approach
+https://leetcode.com/problems/longest-valid-parentheses/submissions/1024880716/
