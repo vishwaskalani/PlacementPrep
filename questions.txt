@@ -78,3 +78,6 @@ https://leetcode.com/problems/sliding-window-maximum/submissions/
 
 31) Segment tree basic implementation
 https://leetcode.com/problems/range-sum-query-mutable/submissions/
+
+32) Median of a data stream - 2 priority queue maintaining q - one min heap, one max heap
+https://leetcode.com/problems/find-median-from-data-stream/
