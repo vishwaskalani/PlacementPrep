@@ -90,3 +90,6 @@ https://leetcode.com/problems/longest-valid-parentheses/submissions/1024880716/
 
 Same questions using dynamic programming based complex approach
 https://leetcode.com/problems/longest-valid-parentheses/submissions/
+
+35) Triangle counting tricky approach without binary search
+https://leetcode.com/problems/valid-triangle-number/
