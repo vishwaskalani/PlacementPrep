@@ -1,3 +1,0 @@
-This file contains the list of some relevant and important cpp articles to be read for preparing for quant tests and interviews :
-
-https://www.geeksforgeeks.org/inheritance-in-c/
