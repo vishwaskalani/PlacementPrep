@@ -96,3 +96,6 @@ https://leetcode.com/problems/valid-triangle-number/
 
 36) Using multiset along with keeping the iterator of middle element of multiset
 https://leetcode.com/problems/sliding-window-median/
+
+37) Extremely difficult q of priority queue
+https://leetcode.com/problems/trapping-rain-water-ii/
