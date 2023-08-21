@@ -99,3 +99,6 @@ https://leetcode.com/problems/sliding-window-median/
 
 37) Extremely difficult q of priority queue
 https://leetcode.com/problems/trapping-rain-water-ii/
+
+38) Stack based questions on the approach smallest to left and right
+https://leetcode.com/problems/maximum-score-of-a-good-subarray/
