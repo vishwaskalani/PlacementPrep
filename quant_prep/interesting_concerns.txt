@@ -1,0 +1,4 @@
+CHESS TOURNAMENT
+This problem's second solution on first go might appear to be fully correct but it is very important to understand 
+that for any sort of random shuffling of matches in every level, a tournament tree can be constructed.
+
