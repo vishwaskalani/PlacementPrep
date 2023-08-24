@@ -52,6 +52,30 @@ If u have random shuffling after each turn then simple recursive equation works
 
 p = 1/6 + 5/6 (1-p)
 
-Now let us consider two bullets put in the roulette
+https://youtu.be/Xtl9orvkDVo?si=LO6CCVdVLwBHpgPk - for russian roulette
+
+-------------------------------------------------------------------------------------------------------------------
+
+BASKETBALL SCORES
+
+The probability of scoring exactly k baskets in n throws can be found using a recursive equation
+
+p(k,n+1) = p(k,n) *(1-(k/n)) + p(k-1,n)*((k-1)/n)
+
+-------------------------------------------------------------------------------------------------------------------
+
+CARS ON A ROAD
+
+Let the probability of seeing a car in 5 minute interval be p
+
+Now the probability of seeing a car in 20 mins is
+
+1 - (1-p)^4 = p'
+
+Now u can calculate p in terms of p'
+
+-------------------------------------------------------------------------------------------------------------------
+
+
 
 
