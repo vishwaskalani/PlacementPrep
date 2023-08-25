@@ -76,6 +76,18 @@ Now u can calculate p in terms of p'
 
 -------------------------------------------------------------------------------------------------------------------
 
+MEETING PROBABILITY 
 
+This is a simple problem 
+We have X,Y ranging from 0 to 60 and we need |X-Y|<5 for meeting which is simply a geometric probability problem
 
+-------------------------------------------------------------------------------------------------------------------
 
+PROBABILITY OF TRIANGLE
+
+This is a very popular problem
+x,y-x,1-y three segments , write triangular condition and plot the lines
+
+ans = 1/4
+
+-------------------------------------------------------------------------------------------------------------------
