@@ -102,3 +102,6 @@ https://leetcode.com/problems/trapping-rain-water-ii/
 
 38) Stack based questions on the approach smallest to left and right
 https://leetcode.com/problems/maximum-score-of-a-good-subarray/
+
+39) Good greedy problem
+https://codeforces.com/contest/294/problem/B
