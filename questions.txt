@@ -107,4 +107,7 @@ https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 https://codeforces.com/contest/294/problem/B
 
 40) Binary search tree important problem
-https://leetcode.com/problems/recover-binary-search-tree
+https://leetcode.com/problems/recover-binary-search-tree/
+
+41) Constructing binary tree from inorder and preorder, standard but important
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
