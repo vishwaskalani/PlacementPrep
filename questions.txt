@@ -105,3 +105,6 @@ https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 
 39) Good greedy problem
 https://codeforces.com/contest/294/problem/B
+
+40) Binary search tree important problem
+https://leetcode.com/problems/recover-binary-search-tree
