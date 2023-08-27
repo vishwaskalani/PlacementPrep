@@ -114,3 +114,6 @@ https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-tr
 
 42) Very important dp pattern
 https://codeforces.com/contest/225/problem/C
+
+43) Interesting problem
+https://codeforces.com/problemset/problem/1592/C
