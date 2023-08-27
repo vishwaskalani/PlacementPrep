@@ -111,3 +111,6 @@ https://leetcode.com/problems/recover-binary-search-tree/
 
 41) Constructing binary tree from inorder and preorder, standard but important
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+42) Very important dp pattern
+https://codeforces.com/contest/225/problem/C
