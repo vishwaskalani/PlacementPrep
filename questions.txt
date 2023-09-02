@@ -123,3 +123,6 @@ https://codeforces.com/contest/1619/problem/E
 
 45) Backtracking + BFS
 https://leetcode.com/problems/word-ladder-ii/
+
+46) Backtracking with a slight trick
+https://leetcode.com/problems/permutations-ii/
