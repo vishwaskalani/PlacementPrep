@@ -2,3 +2,12 @@
 
 2) PHP
   https://www.puzzledquant.com/problems/clgfh6cpk0030l4082xphz8v8
+
+3) A fantastic card guessing puzzle 
+https://math.stackexchange.com/questions/2973819/a-magic-trick-find-out-the-fifth-card-if-four-is-given
+
+This puzzle says that on chosing 5 cards randomly out of the deck and planning with our teammate, we
+can give him 4 cards in such an order that he will be able to guess the 5th card.
+For example we can first give the card of the same suit, we must chose the card wisely. Then we have 
+an ordering in the cards among suits and their values using permutation of which we encode the value of the
+5th card.
