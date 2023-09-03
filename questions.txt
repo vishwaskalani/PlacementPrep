@@ -126,3 +126,6 @@ https://leetcode.com/problems/word-ladder-ii/
 
 46) Backtracking with a slight trick
 https://leetcode.com/problems/permutations-ii/
+
+47) Difficult but important concepts in this problem
+https://codeforces.com/problemset/problem/1472/E
