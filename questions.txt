@@ -129,3 +129,6 @@ https://leetcode.com/problems/permutations-ii/
 
 47) Difficult but important concepts in this problem
 https://codeforces.com/problemset/problem/1472/E
+
+48) Standard fast pointer slow pointer approach but important
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/
