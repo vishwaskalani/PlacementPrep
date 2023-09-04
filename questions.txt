@@ -132,3 +132,6 @@ https://codeforces.com/problemset/problem/1472/E
 
 48) Standard fast pointer slow pointer approach but important
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+49) Extremely important KMP based problem
+https://leetcode.com/problems/shortest-palindrome/
