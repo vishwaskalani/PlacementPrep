@@ -135,3 +135,6 @@ https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 49) Extremely important KMP based problem
 https://leetcode.com/problems/shortest-palindrome/
+
+50) Extremely important precomputation along with knapsack problem
+https://codeforces.com/contest/1633/problem/D
