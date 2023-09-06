@@ -141,3 +141,6 @@ https://codeforces.com/contest/1633/problem/D
 
 51) Binary lifting algorithm
 https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+
+52) Sliding window string search very imp
+https://leetcode.com/problems/minimum-window-substring/
