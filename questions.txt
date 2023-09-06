@@ -138,3 +138,6 @@ https://leetcode.com/problems/shortest-palindrome/
 
 50) Extremely important precomputation along with knapsack problem
 https://codeforces.com/contest/1633/problem/D
+
+51) Binary lifting algorithm
+https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
