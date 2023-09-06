@@ -144,3 +144,7 @@ https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 
 52) Sliding window string search very imp
 https://leetcode.com/problems/minimum-window-substring/
+
+53) 3 non overlapping subarrays with max sum
+Very unique idea of just taking the left and right best elements for every element rather than creating a general dp
+https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
