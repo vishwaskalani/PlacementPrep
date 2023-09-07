@@ -148,3 +148,8 @@ https://leetcode.com/problems/minimum-window-substring/
 53) 3 non overlapping subarrays with max sum
 Very unique idea of just taking the left and right best elements for every element rather than creating a general dp
 https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+
+54) Extremely important problem of dp
+The idea is to minimize in order of increasing length between all pairs of i and j
+Also involves logic of what is optimal
+https://leetcode.com/problems/strange-printer/
