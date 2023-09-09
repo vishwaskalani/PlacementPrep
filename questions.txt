@@ -153,3 +153,6 @@ https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 The idea is to minimize in order of increasing length between all pairs of i and j
 Also involves logic of what is optimal
 https://leetcode.com/problems/strange-printer/
+
+55) Important combinatorics problem with a key insight of removing bad triplets
+https://codeforces.com/problemset/problem/1598/D
