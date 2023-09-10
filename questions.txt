@@ -159,3 +159,6 @@ https://codeforces.com/problemset/problem/1598/D
 
 56) Very important multisource bfs, important thing is that it can't be done by dfs
 https://leetcode.com/problems/01-matrix/
+
+57) Extremely non trivial dynamic programming problem
+https://leetcode.com/problems/student-attendance-record-ii/
