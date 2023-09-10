@@ -162,3 +162,5 @@ https://leetcode.com/problems/01-matrix/
 
 57) Extremely non trivial dynamic programming problem
 https://leetcode.com/problems/student-attendance-record-ii/
+Extremely good explanation
+https://leetcode.com/problems/student-attendance-record-ii/solutions/101643/share-my-o-n-c-dp-solution-with-thinking-process-and-explanation/
