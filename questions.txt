@@ -164,3 +164,7 @@ https://leetcode.com/problems/01-matrix/
 https://leetcode.com/problems/student-attendance-record-ii/
 Extremely good explanation
 https://leetcode.com/problems/student-attendance-record-ii/solutions/101643/share-my-o-n-c-dp-solution-with-thinking-process-and-explanation/
+
+58) Important concept of counting numbers without two consecutive bits
+https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+Good editorial
