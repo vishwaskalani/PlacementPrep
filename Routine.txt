@@ -3,8 +3,18 @@
 2) Make a list of questions according to a topic on leetcode and continue solving problems from it daily.
     Try each problem for 25-30  minutes.
 
-3) Give a virtual contest on leetcode daily according to the time possible.
+3) Give more and more codeforces contests (as much possible).
 
-4) Meditate and be cool and calm :)
+4) Maintain your streak of codeforces daily problem solving.
+
+5) Try learning new topics from cp algorithms.
+
+6) Learn the concepts of C++ and give some time to CS fundamentals. 
+
+7) Meditate and be cool and calm :) Everything will happen well and its ok even if it doesn't happen well :)
+
+8) Revise the previously done important questions
+
+9) Believe 
 
 
