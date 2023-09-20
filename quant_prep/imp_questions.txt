@@ -41,3 +41,6 @@ We have to make two grps out of it. Number of ways is 6C0+6C1+.... = 2^6
 Out of those ways when our second grp is the suffix of this sequence, then we have no left turn
 therefore let us remove those cases which are 7. So we get total 2^6-7 = 57 ways
 
+8) Important noodle connecting problem, expectation is tough, probability is easy
+https://www.puzzledquant.com/problems/clgfh6h43000ala08lo8diig6
+
