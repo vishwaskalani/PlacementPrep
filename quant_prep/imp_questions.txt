@@ -11,3 +11,25 @@ can give him 4 cards in such an order that he will be able to guess the 5th card
 For example we can first give the card of the same suit, we must chose the card wisely. Then we have 
 an ordering in the cards among suits and their values using permutation of which we encode the value of the
 5th card.
+
+4) Remember gambler's ruin general formula
+https://www.puzzledquant.com/problems/clhudggrm001gmm086qrv9yeu
+
+5)Covariance and correlation formula,  you must Remember, good q for revision
+Cov(X,Y) = E[XY]-E[X]E[Y]
+
+correlation = Cov(X,Y)/sqrt(var(X),var(Y))
+https://www.puzzledquant.com/problems/clhudgax8000smm08fc0ukkge
+
+Think on variance of indicator variable as E(Ia^2)-(E(Ia))^2
+
+
+6) Very important question
+https://www.puzzledquant.com/problems/clhudgg8s001emm08lfxy5oab
+
+Based on the recursive equation
+P(x,y) = ((x-1)/(y-1))*P(x-1,y-1) + (1 - (x/(y-1)))*P(x,y-1)
+
+Then based on induction argue that the answer of P(x,y) = 1/(y-1)
+so answer is 1/99
+
