@@ -172,3 +172,6 @@ Good editorial
 59) Fantastic problem of number of different sum paths
 Observe that what min and max value the paht sum can take, and then see if you construct all the paths between them?
 https://codeforces.com/contest/1358/problem/C
+
+60) Important property of xor, sum and the and of the numbers
+https://codeforces.com/problemset/problem/627/A
