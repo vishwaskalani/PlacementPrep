@@ -33,3 +33,11 @@ P(x,y) = ((x-1)/(y-1))*P(x-1,y-1) + (1 - (x/(y-1)))*P(x,y-1)
 Then based on induction argue that the answer of P(x,y) = 1/(y-1)
 so answer is 1/99
 
+7) Very interesting problem, based on dividing in two grps with increasing subsequences
+https://www.puzzledquant.com/problems/clhrexqs30002l608jui31ony
+
+consider 2,3,4,5,6,7
+We have to make two grps out of it. Number of ways is 6C0+6C1+.... = 2^6
+Out of those ways when our second grp is the suffix of this sequence, then we have no left turn
+therefore let us remove those cases which are 7. So we get total 2^6-7 = 57 ways
+
