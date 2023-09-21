@@ -175,3 +175,6 @@ https://codeforces.com/contest/1358/problem/C
 
 60) Important property of xor, sum and the and of the numbers
 https://codeforces.com/problemset/problem/627/A
+
+61) Kth element in dictionary of words with two characters, using combinatorics
+https://leetcode.com/problems/kth-smallest-instructions/submissions/
