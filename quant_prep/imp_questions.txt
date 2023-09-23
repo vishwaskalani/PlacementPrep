@@ -66,3 +66,5 @@ https://www.puzzledquant.com/problems/clgfh6vh0001ola086n74y011
 This is a tricky problem where we need to conclude that all the expectations are equivalent.
 I would say calculate the answer for 1 white, 1 black and 2 white and 2 black and conclude the answer to be 50%
 
+12) Keep in mind the deifinition of cdf, maximum is straightfwd, minimum is tricky
+https://www.puzzledquant.com/problems/clhudgad8000qmm086mmsgigc
