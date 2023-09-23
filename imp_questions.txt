@@ -178,3 +178,6 @@ https://codeforces.com/problemset/problem/627/A
 
 61) Kth element in dictionary of words with two characters, using combinatorics
 https://leetcode.com/problems/kth-smallest-instructions/submissions/
+
+62) Champagne flow simulation question
+https://leetcode.com/problems/champagne-tower/submissions/
