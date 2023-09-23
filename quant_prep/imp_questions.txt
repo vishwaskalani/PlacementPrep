@@ -53,3 +53,11 @@ now think of coupon collection as t = t1+t2+..ti...
 where ti is the event of collecting ith coupon when u have collected i-1 coupons
 therefore the answer comes out to be n(1+1/2+1/3....) ~ nlogn
 
+10) Random ants problem
+https://www.puzzledquant.com/problems/clhudg9eo000mmm08opjz067x
+In this problem the answer is n/(n+1)
+First figure out that collision has no effect
+Then we need to find the expected value of the longest distance of an ant from an end
+This is a standard probability problem
+X1,x2...xN all less than x...then cdf = x^n and the pdf is nx^n-1 and then find the expected value using integration
+
