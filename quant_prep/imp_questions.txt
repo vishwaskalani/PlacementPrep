@@ -72,3 +72,7 @@ I would say calculate the answer for 1 white, 1 black and 2 white and 2 black an
 
 12) Keep in mind the deifinition of cdf, maximum is straightfwd, minimum is tricky
 https://www.puzzledquant.com/problems/clhudgad8000qmm086mmsgigc
+
+13) Very standard set of problems of whether to stop or roll
+https://www.puzzledquant.com/problems/clhros2s0000kmv08kjh6oqo8
+The series is like 7/2, 17/4, 14/3....
