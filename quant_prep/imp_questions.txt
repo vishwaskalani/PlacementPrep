@@ -56,6 +56,8 @@ therefore the answer comes out to be n(1+1/2+1/3....) ~ nlogn
 Another important aspect in this problem is the expected number of distinct coupons in n turns
 https://www.puzzledquant.com/problems/clhudgbdf000umm088tmngvt4
 again breaking the random variable and utilizing the sum of expectations theorem
+this is same as this problem
+https://www.puzzledquant.com/problems/clgfh6hl3000cla08vd9dvj0e
 
 10) Random ants problem
 https://www.puzzledquant.com/problems/clhudg9eo000mmm08opjz067x
