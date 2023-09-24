@@ -181,3 +181,7 @@ https://leetcode.com/problems/kth-smallest-instructions/submissions/
 
 62) Champagne flow simulation question
 https://leetcode.com/problems/champagne-tower/submissions/
+
+63) Extremely important counting the palindromic subsequences and then the distinct palindromic subsequences problem
+https://leetcode.com/problems/count-different-palindromic-subsequences/
+Very very important to know this dp
