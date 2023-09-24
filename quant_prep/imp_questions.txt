@@ -78,3 +78,7 @@ https://www.puzzledquant.com/problems/clhudgad8000qmm086mmsgigc
 13) Very standard set of problems of whether to stop or roll
 https://www.puzzledquant.com/problems/clhros2s0000kmv08kjh6oqo8
 The series is like 7/2, 17/4, 14/3....
+
+14) Important die rolling sum problem, arguement by induction, not possible using the most intutitive recursion, this recursion needed
+Important that the sum is n for a n sided die
+https://www.puzzledquant.com/problems/clhros624000ymv08941z69mq
