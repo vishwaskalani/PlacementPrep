@@ -185,3 +185,6 @@ https://leetcode.com/problems/champagne-tower/submissions/
 63) Extremely important counting the palindromic subsequences and then the distinct palindromic subsequences problem
 https://leetcode.com/problems/count-different-palindromic-subsequences/
 Very very important to know this dp
+
+64)Extremely important bitmasking dp, first the concept of floyd warshall and then very beautiful bitmasking dp
+https://leetcode.com/problems/shortest-path-visiting-all-nodes/
