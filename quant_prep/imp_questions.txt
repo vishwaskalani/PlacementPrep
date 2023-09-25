@@ -86,3 +86,7 @@ https://www.puzzledquant.com/problems/clhros624000ymv08941z69mq
 15)https://www.puzzledquant.com/problems/clj338ssd0000mf08x63ie7lx
 expected turns to find the a taller guy is infinite
 uses the fact that e(n) = e(e(n|x))
+
+16) https://www.puzzledquant.com/problems/clgfh6o3l000ola08ygac9sta
+This problem utilizes an interesting result on inequalities and then uses induction
+Very important for interviews but not as such for tests
