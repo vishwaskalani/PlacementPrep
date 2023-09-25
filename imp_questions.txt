@@ -188,3 +188,6 @@ Very very important to know this dp
 
 64)Extremely important bitmasking dp, first the concept of floyd warshall and then very beautiful bitmasking dp
 https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+
+65) A very non trivial case of using bfs and a strange thing that the solution doesn't passes without clearing some nodes in the graph
+https://leetcode.com/problems/jump-game-iv/submissions/
