@@ -94,6 +94,23 @@ void leastPrimeFactor()
     }
 }
 
+vector<ll> largest_prime(MAX_N+1, 0);
+void largestPrimeFactor()
+{
+    largest_prime[1] = 1;
+    for (ll i = 2; i <= MAX_N; i++)
+    {
+        if (largest_prime[i] == 0)
+        {
+            largest_prime[i] = i;
+            for (ll j = i; j <= MAX_N; j += i){
+				largest_prime[j] = i;
+			}
+        }
+    }
+}
+
+
 //function to find the number of factors of a number using prime factorization
 // this function is sqrt(n) in worst case and O(log n) in best case
 // works well
@@ -169,6 +186,10 @@ void solve() {
 	cout<<least_prime[15]<<endl;
 	vector<ll> factors = getFactorization(36);
 	display_ll(factors);
+	largestPrimeFactor();
+	cout<<largest_prime[15]<<endl;
+	cout<<largest_prime[37]<<endl;
+	cout<<largest_prime[91]<<endl;
 }
 
 
