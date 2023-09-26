@@ -120,6 +120,29 @@ ll factors(ll x){
 	return facts;
 }
 
+// this function finds the largest prime factor of a number using the similar above approach
+int largestPrime(int n){
+	int answer = 2;
+	while(n%2==0){
+		n = n/2;
+	}
+	for(int i=3; i<=sqrt(n); i++){
+		bool flag = false;
+		while(n%i==0){
+			n/=i;
+			flag = true;
+		}
+		if(flag){
+			answer = i;
+		}
+	}
+	if(n>2){
+		answer = n;
+	}
+	return answer;
+}
+
+
 // even the above method might time out some times
 // we can use the sive for prime factorization in O(log n) time and O(n) space
 // The main idea is to precompute the Smallest Prime Factor (SPF) for each number from 1 to MAXN 
