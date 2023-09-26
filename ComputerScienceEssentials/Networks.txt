@@ -1,0 +1,9 @@
+1) Packet switching vs circuit switching
+circuit switching is under utilization of resources
+2) Packet delay  = d_proc + d_queue + d_trans + d_prop
+    d_proc = nodal processing, checking bit errors etc
+    d_queue = time waiting at the output link
+    d_trans = transmitting to the link = L/R where we have L bits packet and R as the transmitting rate in bits/s 
+    d_prop = time taken by the packet to propogate to the end point, equal to d/prop_speed
+3) Traffic intensity at a link is La/R where a is the arrival rates of the packets
+4)  
