@@ -172,3 +172,22 @@ Good editorial
 59) Fantastic problem of number of different sum paths
 Observe that what min and max value the paht sum can take, and then see if you construct all the paths between them?
 https://codeforces.com/contest/1358/problem/C
+
+60) Important property of xor, sum and the and of the numbers
+https://codeforces.com/problemset/problem/627/A
+
+61) Kth element in dictionary of words with two characters, using combinatorics
+https://leetcode.com/problems/kth-smallest-instructions/submissions/
+
+62) Champagne flow simulation question
+https://leetcode.com/problems/champagne-tower/submissions/
+
+63) Extremely important counting the palindromic subsequences and then the distinct palindromic subsequences problem
+https://leetcode.com/problems/count-different-palindromic-subsequences/
+Very very important to know this dp
+
+64)Extremely important bitmasking dp, first the concept of floyd warshall and then very beautiful bitmasking dp
+https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+
+65) A very non trivial case of using bfs and a strange thing that the solution doesn't passes without clearing some nodes in the graph
+https://leetcode.com/problems/jump-game-iv/submissions/

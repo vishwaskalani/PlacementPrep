@@ -44,3 +44,53 @@ therefore let us remove those cases which are 7. So we get total 2^6-7 = 57 ways
 8) Important noodle connecting problem, expectation is tough, probability is easy
 https://www.puzzledquant.com/problems/clgfh6h43000ala08lo8diig6
 
+9) Very easy but important problem, coupon collector problem based on geometric probability
+The problem is the expected number of turns in which we would have collected all the coupons
+https://en.wikipedia.org/wiki/Coupon_collector%27s_problem
+think of an event having success probability p and failure probability 1-p, then the expected number of turns for success is:
+e = p +(1-p)(1+e) and u will get e = 1/p
+now think of coupon collection as t = t1+t2+..ti...
+where ti is the event of collecting ith coupon when u have collected i-1 coupons
+therefore the answer comes out to be n(1+1/2+1/3....) ~ nlogn
+
+Another important aspect in this problem is the expected number of distinct coupons in n turns
+https://www.puzzledquant.com/problems/clhudgbdf000umm088tmngvt4
+again breaking the random variable and utilizing the sum of expectations theorem
+this is same as this problem
+https://www.puzzledquant.com/problems/clgfh6hl3000cla08vd9dvj0e
+
+10) Random ants problem
+https://www.puzzledquant.com/problems/clhudg9eo000mmm08opjz067x
+In this problem the answer is n/(n+1)
+First figure out that collision has no effect
+Then we need to find the expected value of the longest distance of an ant from an end
+This is a standard probability problem
+X1,x2...xN all less than x...then cdf = x^n and the pdf is nx^n-1 and then find the expected value using integration
+
+11)Color switches problem
+https://www.puzzledquant.com/problems/clgfh6vh0001ola086n74y011
+This is a tricky problem where we need to conclude that all the expectations are equivalent.
+I would say calculate the answer for 1 white, 1 black and 2 white and 2 black and conclude the answer to be 50%
+
+12) Keep in mind the deifinition of cdf, maximum is straightfwd, minimum is tricky
+https://www.puzzledquant.com/problems/clhudgad8000qmm086mmsgigc
+
+13) Very standard set of problems of whether to stop or roll
+https://www.puzzledquant.com/problems/clhros2s0000kmv08kjh6oqo8
+The series is like 7/2, 17/4, 14/3....
+
+14) Important die rolling sum problem, arguement by induction, not possible using the most intutitive recursion, this recursion needed
+Important that the sum is n for a n sided die
+https://www.puzzledquant.com/problems/clhros624000ymv08941z69mq
+
+15)https://www.puzzledquant.com/problems/clj338ssd0000mf08x63ie7lx
+expected turns to find the a taller guy is infinite
+uses the fact that e(n) = e(e(n|x))
+
+16) https://www.puzzledquant.com/problems/clgfh6o3l000ola08ygac9sta
+This problem utilizes an interesting result on inequalities and then uses induction
+Very important for interviews but not as such for tests
+
+17)https://www.puzzledquant.com/problems/clhudgreo002kmm08ht81csnn
+The most confusing thing about this problem is that we tend to look into modulo 2 results rather than modulo 3 results
+There is no way you can do it just by using the parity of even and odd. At any point of time, two numbers won't have the same modulo 3
