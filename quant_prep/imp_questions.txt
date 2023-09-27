@@ -94,3 +94,6 @@ Very important for interviews but not as such for tests
 17)https://www.puzzledquant.com/problems/clhudgreo002kmm08ht81csnn
 The most confusing thing about this problem is that we tend to look into modulo 2 results rather than modulo 3 results
 There is no way you can do it just by using the parity of even and odd. At any point of time, two numbers won't have the same modulo 3
+
+18) Important number theory puzzle
+https://codeforces.com/contest/1537/problem/D
