@@ -191,3 +191,7 @@ https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 
 65) A very non trivial case of using bfs and a strange thing that the solution doesn't passes without clearing some nodes in the graph
 https://leetcode.com/problems/jump-game-iv/submissions/
+
+66) Minimizing the length of LIS and LDS in a permutation
+https://codeforces.com/contest/1017/problem/C
+This problem is based on dilworth theorem which says that the length of largest antichain is equal to the minimum chain cover of the set
