@@ -71,6 +71,27 @@ public:
 	}
 };
 
+class sample1
+{
+	public:
+	int val;
+	~sample1(){
+		cout<<"Deleting sample 1"<<endl;
+	}
+};
+
+
+class sample2
+{
+	public:
+	int val;
+	~sample2(){
+		cout<<"Deleting sample 2"<<endl;
+	}
+};
+
+
+
 
 
 int main(){
@@ -83,5 +104,8 @@ int main(){
 
 	//When a derived class is destroyed, each destructor is called in the reverse order of construction. 
 	// you can see that in the print order
+	sample1 obj1;
+	sample2 obj2;
+	// always remember that any sort of deletion occurs in reverse order of construction
 	return 0;
 }
