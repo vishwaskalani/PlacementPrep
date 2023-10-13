@@ -195,3 +195,6 @@ https://leetcode.com/problems/jump-game-iv/submissions/
 66) Minimizing the length of LIS and LDS in a permutation
 https://codeforces.com/contest/1017/problem/C
 This problem is based on dilworth theorem which says that the length of largest antichain is equal to the minimum chain cover of the set
+
+67) 2d kadane's algorithm like problem and a very important concept of finding the maxsum subarray no more than k
+https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
