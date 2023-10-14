@@ -1,0 +1,18 @@
+Many of your tests are getting spoiled because of your lack of speed
+
+You need to practice timed contests where you are practicing these leetcode style questions
+
+It is important to gain speed 
+
+Here are 2 contests of 3 questions in 70 mins. You have to attempt both these tests to gain speed
+
+Test 1 :
+https://leetcode.com/problems/destroying-asteroids/
+https://leetcode.com/problems/finding-pairs-with-a-certain-sum/
+https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
+
+
+Test 2 :
+https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
+https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
+https://leetcode.com/problems/stamping-the-grid/
