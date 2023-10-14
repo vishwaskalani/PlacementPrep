@@ -198,3 +198,6 @@ This problem is based on dilworth theorem which says that the length of largest 
 
 67) 2d kadane's algorithm like problem and a very important concept of finding the maxsum subarray no more than k
 https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+
+68) Important 3d dp
+https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/submissions/
