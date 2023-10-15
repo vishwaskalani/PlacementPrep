@@ -201,3 +201,6 @@ https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
 68) Important 3d dp
 https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/submissions/
+
+69) Important prefix sum techniques in a matrix
+https://leetcode.com/problems/stamping-the-grid/submissions/1075679414/
