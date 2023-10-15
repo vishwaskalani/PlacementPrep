@@ -204,3 +204,6 @@ https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 
 69) Important prefix sum techniques in a matrix
 https://leetcode.com/problems/stamping-the-grid/submissions/1075679414/
+
+70) Concept of gcd of lists
+https://codeforces.com/problemset/problem/1458/A
