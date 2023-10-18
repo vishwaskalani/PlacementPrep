@@ -207,3 +207,6 @@ https://leetcode.com/problems/stamping-the-grid/submissions/1075679414/
 
 70) Concept of gcd of lists
 https://codeforces.com/problemset/problem/1458/A
+
+71) Diameter of a tree
+https://codeforces.com/contest/1881/submission/228654791
