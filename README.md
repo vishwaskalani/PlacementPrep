@@ -12,7 +12,7 @@
 
 ## 19th October
 
-- Aah lot of time waste in thinking whether to apply in Sansung Bangalore or not. Finally did not :(
+- Aah lot of time waste in thinking whether to apply in Samsung Bangalore or not. Finally did not :(
 
 - So many important tests lined up now, Da Vinci, Quadeye, DRW. Let us gear up and put our best efforts for them.
 
