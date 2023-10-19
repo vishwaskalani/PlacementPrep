@@ -213,3 +213,6 @@ https://codeforces.com/contest/1881/submission/228654791
 
 72) Smart use of constraints in the problem
 https://leetcode.com/problems/find-a-good-subset-of-the-matrix/submissions/
+
+73) Very standard way of doing top down dynamic programmin on alphabets in leetcode
+https://leetcode.com/problems/decremental-string-concatenation/submissions/
