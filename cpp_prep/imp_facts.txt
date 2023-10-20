@@ -1,0 +1,3 @@
+- There are two types of polymorphism in C++, compile time and run time polymorphism
+- Compile time polymorphism refers to function and operator overloading which compiler can decide based on the types of the inputs to the functions
+- Run time polymorphism also called as dynamic binding refers to function overriding with and without virtual keyword
