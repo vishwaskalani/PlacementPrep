@@ -52,6 +52,7 @@ int main(){
 	Derived der {};
 	Base& rbas {der};
 	cout<<"rbas is a "<<rbas.get_name()<<endl;
+	cout<<"der is a "<<der.get_name()<<endl;
 
 	C c {};
     A& rBase{ c };
