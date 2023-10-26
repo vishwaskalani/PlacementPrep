@@ -21,3 +21,11 @@
 ## 20th October
 
 - Important day, da vinci test, be confident, stay calm :) Everything will be well. Will write after coming back as well
+- The test of Da Vinvi sde was easier than expected and went well
+- But needed to do well in Media.net as well :( but genuinely it was very half hearted attempt
+- Played a lot of cricket and foosball today, is fun but still feeling very tired
+  
+
+## 21st October
+
+- Quadeye test lined up. Let us see how well can we do in that !!
