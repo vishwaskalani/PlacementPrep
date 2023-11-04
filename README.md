@@ -36,3 +36,9 @@
 - Hasn't been the happiest of time, there have been huge downfalls in confidence due to some performances in test and probably the worst placement season at IIT Delhi
 - But we should now not focus on blamin the placement cell and the situations and should focus on our mistakes and should try to rectify them
 - Today we have JPMC test, most probably we would have to write the code in python so will be a bit challenging but that would be the case for everyone so don't worry, be confident, everything will be well, don't stress out, peace :)
+
+## Nov 5
+
+- A lot of things happening, having stripe interview on 6th and Graviton interview on 8th
+- Also there is quantbox test today, well it is 1 am in morning and I am struggling to sleep currently.
+- Need to think of targets for tomorrow and clearly implement them from morning. Peace :)

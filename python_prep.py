@@ -11,10 +11,12 @@ curr_set.remove(5)
 curr_set.clear()
 a = 5
 curr_set.add(5)
+curr_set.add(2)
 if a in curr_set:
 	print("Yes")
 else:
 	print("No")
+print("set is ")
 print(curr_set)
 
 
