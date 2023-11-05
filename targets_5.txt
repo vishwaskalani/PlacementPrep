@@ -1,0 +1,9 @@
+Let us think of some targets to clearly organize our work :
+
+1) https://codeforces.com/problemset/problem/167/B
+
+2) Revise some standard leetcode style problems for 2 hrs
+
+3) Puzzled quant revision
+
+4) Computer architecture revision
