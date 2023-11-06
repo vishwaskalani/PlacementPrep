@@ -97,3 +97,6 @@ There is no way you can do it just by using the parity of even and odd. At any p
 
 18) Important number theory puzzle
 https://codeforces.com/contest/1537/problem/D
+
+19) Very important simplex based analysis
+https://www.quantguide.io/questions/spacious-uniform-values-i
