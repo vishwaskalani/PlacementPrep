@@ -108,3 +108,7 @@ https://www.quora.com/Why-does-no-strategy-matter-in-the-next-card-is-red-game
 consider 4 points and then consider 1 out of three case to have intersection
 This problem also requires considering pairs of non adjancent chords
 https://www.quantguide.io/questions/segment-traversal
+
+22) Very important, startegy independent probability
+In this problem, every game is a fair game and in expectation one is to have 0 financial gain or loss, and thus the expected worth will always be the initial stake. If u win then u will have sum of all the powers and if you lose you will have 0 power so u can easily find the probability of winning as P/(P+Q)
+https://www.quantguide.io/questions/colosseum-fight
