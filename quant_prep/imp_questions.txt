@@ -100,3 +100,6 @@ https://codeforces.com/contest/1537/problem/D
 
 19) Very important simplex based analysis
 https://www.quantguide.io/questions/spacious-uniform-values-i
+
+20) Very interesting puzzle game and the answer is not strategy can make us better than 50% chance
+https://www.quora.com/Why-does-no-strategy-matter-in-the-next-card-is-red-game
