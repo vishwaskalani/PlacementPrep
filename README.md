@@ -37,8 +37,16 @@
 - But we should now not focus on blamin the placement cell and the situations and should focus on our mistakes and should try to rectify them
 - Today we have JPMC test, most probably we would have to write the code in python so will be a bit challenging but that would be the case for everyone so don't worry, be confident, everything will be well, don't stress out, peace :)
 
+
 ## Nov 5
 
 - A lot of things happening, having stripe interview on 6th and Graviton interview on 8th
 - Also there is quantbox test today, well it is 1 am in morning and I am struggling to sleep currently.
 - Need to think of targets for tomorrow and clearly implement them from morning. Peace :)
+
+## Nov 7
+
+- A busy but some how clumsy behaviour is this phase. You should focus better, had to deal with some BTP work today
+- Nvidia test today, will be an interesting one, let us see !!
+- The main and important day is tomorrrow since we have our graviton interview, will try to revise most of the quant problems I have done till now begining from just after nvidia test.
+- Let us put our atmost effort till 4 pm tomorrow and believe on god :)
