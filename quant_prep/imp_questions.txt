@@ -103,3 +103,8 @@ https://www.quantguide.io/questions/spacious-uniform-values-i
 
 20) Very interesting puzzle game and the answer is not strategy can make us better than 50% chance
 https://www.quora.com/Why-does-no-strategy-matter-in-the-next-card-is-red-game
+
+21) Very important, must know the probability of 2 random chords intersecting in a circle is 1/3,
+consider 4 points and then consider 1 out of three case to have intersection
+This problem also requires considering pairs of non adjancent chords
+https://www.quantguide.io/questions/segment-traversal
