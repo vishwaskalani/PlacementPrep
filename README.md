@@ -50,3 +50,8 @@
 - Nvidia test today, will be an interesting one, let us see !!
 - The main and important day is tomorrrow since we have our graviton interview, will try to revise most of the quant problems I have done till now begining from just after nvidia test.
 - Let us put our atmost effort till 4 pm tomorrow and believe on god :)
+
+## Nov 8 
+
+- Interview day, so the we have graviton quant interview today, excited and a bit nervous but need to cool down !!
+- Let us hope we are able to perform atleast up to the level of preparation we have had, believe on god, and yourself, everything will be well :)
