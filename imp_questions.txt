@@ -219,3 +219,6 @@ https://leetcode.com/problems/decremental-string-concatenation/submissions/
 
 74) Important dp on trees problem, very important to note the pattern in this kind of questions
 https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/submissions/1079814008/
+
+75) Greedy square root n solution, important concept
+https://leetcode.com/problems/maximum-split-of-positive-even-integers/submissions/
