@@ -222,3 +222,6 @@ https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/
 
 75) Greedy square root n solution, important concept
 https://leetcode.com/problems/maximum-split-of-positive-even-integers/submissions/
+
+76) Very important concepts of map, similar to the lis in nlogn but different in some terms, in the end a very important question with an interesting use of map
+https://leetcode.com/problems/maximum-balanced-subsequence-sum/submissions/
