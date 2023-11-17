@@ -112,3 +112,6 @@ https://www.quantguide.io/questions/segment-traversal
 22) Very important, startegy independent probability
 In this problem, every game is a fair game and in expectation one is to have 0 financial gain or loss, and thus the expected worth will always be the initial stake. If u win then u will have sum of all the powers and if you lose you will have 0 power so u can easily find the probability of winning as P/(P+Q)
 https://www.quantguide.io/questions/colosseum-fight
+
+23) Expected ratio, very interesting problem
+https://math.stackexchange.com/questions/140184/expected-ratio-of-coin-flips
