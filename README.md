@@ -55,3 +55,8 @@
 
 - Interview day, so the we have graviton quant interview today, excited and a bit nervous but need to cool down !!
 - Let us hope we are able to perform atleast up to the level of preparation we have had, believe on god, and yourself, everything will be well :)
+
+## Nov 17
+
+- Can't say how good or bad were days recently, but unfortunately i did not receive a call for second round of interview with graviton :(
+- But we have a jpmc shortlist :), we need to prepare well for the limited interviews that we have now
