@@ -115,3 +115,6 @@ https://www.quantguide.io/questions/colosseum-fight
 
 23) Expected ratio, very interesting problem
 https://math.stackexchange.com/questions/140184/expected-ratio-of-coin-flips
+
+24) Simple but tricky PHP
+https://www.quantguide.io/questions/minimal-shade
