@@ -225,3 +225,6 @@ https://leetcode.com/problems/maximum-split-of-positive-even-integers/submission
 
 76) Very important concepts of map, similar to the lis in nlogn but different in some terms, in the end a very important question with an interesting use of map
 https://leetcode.com/problems/maximum-balanced-subsequence-sum/submissions/
+
+77) Very important concept that only possible answers are 0,1, and 2 and the problem is easy after this is deduced, very important to understand this logic
+https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/
