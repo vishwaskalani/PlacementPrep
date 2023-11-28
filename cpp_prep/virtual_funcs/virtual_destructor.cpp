@@ -33,6 +33,7 @@ int main(){
 	Derived* derived { new Derived(5) };
     Base* base { derived };
 	// without declaring destructor as virtual, it will only call the base destructor
+	//since we have a pointer once base is deleted it means derived is also deleted
     delete base;
 	// after declaring the desrtuctor as virtual, it will call the destructors of the base and the derived class
 	// in fact you only need to mention the base class destructor as virtual, the other one would be overriden
