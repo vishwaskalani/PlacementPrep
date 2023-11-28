@@ -114,5 +114,10 @@ int main(){
 	return 0;
 }
 
+// new things to cover
+
 //command line arguments in C++
 //file reading and writing in C++
+//Priority of operators in C++
+//shared pointer in C++
+//enums in C++

@@ -36,6 +36,7 @@ int main(){
 	// int testscore_new[maxfriends] {}; -- this is not possible in enum classes
 	int testscore_new[static_cast<int>(FriendNames::maxfriends)]{};
 	// for enum classes u have to statically cast them to int
+	// enum classes are basically scoped enumerations and we can't use them without the scoping operator ::
 
 	return 0;
 }
