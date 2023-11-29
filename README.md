@@ -60,3 +60,15 @@
 
 - Can't say how good or bad were days recently, but unfortunately i did not receive a call for second round of interview with graviton :(
 - But we have a jpmc shortlist :), we need to prepare well for the limited interviews that we have now
+
+## Nov 29
+
+- Things are tough, we missed on shortlists of various companies in which we wanted to get into.
+- But tough people survive tough challenges, believe in urself, everything is possible man, Stay positive, calm, cool and relaxed.
+- Focus on last moment brushups of things.
+Let me list somethings to brushup for today : 
+- Memory hierarchy
+- Leetcode one problem
+- One C++ knowledge video
+
+Then tomorrow morning we will be revising quant puzzles for brushing up our quant prep, Let us just do best in what we have got and trust on god, everything will be fine. (:)
