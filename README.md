@@ -75,4 +75,4 @@ Then tomorrow morning we will be revising quant puzzles for brushing up our quan
 
 ## Dec 3
 
-- Got into JP Morgan, may be not my dream company but let us see where we can get from here.
+- Got into JP Morgan, may be not my dream company but let us see where we can get from here , this prep will stay with me :)
