@@ -72,3 +72,7 @@ Let me list somethings to brushup for today :
 - One C++ knowledge video
 
 Then tomorrow morning we will be revising quant puzzles for brushing up our quant prep, Let us just do best in what we have got and trust on god, everything will be fine. (:)
+
+## Dec 3
+
+- Got into JP Morgan, may be not my dream company but let us see where we can get from here.
