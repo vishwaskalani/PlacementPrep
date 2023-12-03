@@ -1,5 +1,13 @@
 # PlacementPrep
 
+## Some directory structure details :
+
+- The folder "ComputerScienceEssentials" contains some lecture notes of fundamental topics of cs useful for systems roles at quant firms.
+- The folder "cp_diff_algos" contains some essential but not commonly used algorithms.
+- The folder "cpp_prep" contains small code snippets which i prepared during my prep from "learncpp.com"
+- The folder "quant_prep" contains very important quant puzzles books.
+- The file in home directory "imp_questions.txt" contains list of important, standard and difficult dsa and cp problems i encountered.
+
 ## 18th October
 
 - It is midway in the placement processes. Today is 18th October and I think it would be good to log the mistakes and try to improve upon them.
