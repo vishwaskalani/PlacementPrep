@@ -6,6 +6,7 @@ int main(){
     int *ptr = new int;
     *ptr = 40;
     delete ptr;
+
     //using a pointer after deleting is called dangling pointer in C++
     // best practice is to make the pointer null pointer
     // so that it is not dangling
