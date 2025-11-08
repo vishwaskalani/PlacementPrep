@@ -21,6 +21,12 @@ struct PriceLevel {
 
 };
 
+struct OrderLocator{
+		Side side;
+		ll price;
+		list<Order>::iterator listIt;
+	};
+
 class OrderBook {
 
 	public:
@@ -45,10 +51,38 @@ class OrderBook {
 		}
 	}
 
+	bool cancelOrder(const string &id){
+		auto it = orderMap.find(id);
+		if(it==orderMap.end()){
+			return false;
+		}
+		OrderLocator ol = it->second;
+		if(ol.side==Side::BUY){
+			bids[ol.price].totalQuantity-=ol.listIt->quantity;
+			bids[ol.price].orders.erase(ol.listIt);
+			if(bids[ol.price].orders.empty()){
+				bids.erase(ol.price);
+			}
+		}
+		else{
+			asks[ol.price].totalQuantity-=ol.listIt->quantity;
+			asks[ol.price].orders.erase(ol.listIt);
+			if(asks[ol.price].orders.empty()){
+				asks.erase(ol.price);
+			}
+		}
+		orderMap.erase(id);
+		return true;
+	}
+	
 	private:
+
+	uint64_t now;
 
 	map<ll,PriceLevel, greater<ll>> bids;
 	map<ll,PriceLevel> asks;
+
+	map<string,OrderLocator> orderMap;
 	
 	void match(Order &incoming,map<ll,PriceLevel> &oppBook, map<ll,PriceLevel,greater<ll>> &myBook,bool isBuy){
 		// buy order implementation
@@ -66,6 +100,8 @@ class OrderBook {
 					resting.quantity-=tradeQuantity;
 					pl.totalQuantity-=tradeQuantity;
 					if(resting.quantity==0){
+						auto omIt = orderMap.find(resting.id);
+                        if (omIt != orderMap.end()) orderMap.erase(omIt);
 						lit=pl.orders.erase(lit);
 					}
 					else{
@@ -94,6 +130,8 @@ class OrderBook {
 					resting.quantity-=tradeQuantity;
 					pl.totalQuantity-=tradeQuantity;
 					if(resting.quantity==0){
+						auto omIt = orderMap.find(resting.id);
+                        if (omIt != orderMap.end()) orderMap.erase(omIt);
 						lit=pl.orders.erase(lit);
 					}
 					else{
@@ -119,8 +157,12 @@ class OrderBook {
 			if(bids.find(o.price)==bids.end()){
 				list<Order> newList = {o};
 				bids[o.price] = PriceLevel{newList,o.quantity};
+				OrderLocator ol{Side::BUY,o.price,bids[o.price].orders.begin()};
+				orderMap[o.id] = ol;
 			}
 			else{
+				OrderLocator ol{Side::BUY,o.price,bids[o.price].orders.end()};
+				orderMap[o.id] = ol;
 				bids[o.price].orders.push_back(o);
 				bids[o.price].totalQuantity+=o.quantity;
 			}
@@ -130,15 +172,17 @@ class OrderBook {
 			if(asks.find(o.price)==asks.end()){
 				list<Order> newList = {o};
 				asks[o.price] = PriceLevel{newList,o.quantity};
+				OrderLocator ol{Side::SELL,o.price,asks[o.price].orders.begin()};
+				orderMap[o.id] = ol;
 			}
 			else{
+				OrderLocator ol{Side::SELL,o.price,asks[o.price].orders.end()};
+				orderMap[o.id] = ol;
 				asks[o.price].orders.push_back(o);
 				asks[o.price].totalQuantity+=o.quantity;
 			}
 		}
 	}
-
-	uint64_t now;
 
 
 };
@@ -163,6 +207,17 @@ int main(){
 			cin>>id>>side>>p>>q;
 			Side s = (side=='B') ? Side::BUY : Side::SELL;
 			ob.add_limit(id,s,p,q);
+		}
+		else if(cmd=="C"){
+			string id;
+			cin>>id;
+			bool cancelResult = ob.cancelOrder(id);
+			if(!cancelResult){
+				cout<<"Cancellation of "<<id<<" failed"<<"\n";
+			}
+			else{
+				cout<<"Cancellation of "<<id<<" success"<<"\n";
+			}
 		}
 		else{
 			cout<<"UNKNOWN COMMAND "<<cmd<<"\n";
