@@ -65,7 +65,7 @@ class RideEngine{
 	map<string,Driver> driverDetails;
 
 	float findDistance(Driver &d,Rider &r){
-		return abs(d.x-r.x)+abs(d.y-r.y);
+		return fabs(d.x-r.x)+fabs(d.y-r.y);
 	}
 
 };
