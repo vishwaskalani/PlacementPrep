@@ -74,6 +74,37 @@ class OrderBook {
 		orderMap.erase(id);
 		return true;
 	}
+
+	void modifyOrder(const string &id,ll np,ll nq){
+		try{
+			Side s = getOrderSide(id);
+			bool cancelResult = cancelOrder(id);
+			if(!cancelResult){
+				cout<<"Modification of "<<id<<" failed during cancellation"<<"\n";
+			}
+			else{
+				add_limit(id,s,np,nq);
+				cout<<"Modification of "<<id<<" success"<<"\n";
+			}
+		}
+		catch(runtime_error &e){
+			cout<<"Modification of "<<id<<" failed: Order not found"<<"\n";
+		}
+	}
+
+	void printBook(){
+		cout<<"-----ORDER BOOK-----"<<"\n";
+		cout<<"BIDS:"<<"\n";
+		for(auto &b: bids){
+			cout<<"Price: "<<b.first<<" Total Quantity: "<<b.second.totalQuantity<<"\n";
+		}
+		cout<<"ASKS:"<<"\n";
+		for(auto &a: asks){
+			cout<<"Price: "<<a.first<<" Total Quantity: "<<a.second.totalQuantity<<"\n";
+		}
+		cout<<"--------------------"<<"\n";
+	}
+
 	
 	private:
 
@@ -184,6 +215,14 @@ class OrderBook {
 		}
 	}
 
+	Side getOrderSide(const string &id){
+		auto it = orderMap.find(id);
+		if(it==orderMap.end()){
+			throw runtime_error("Order not found");
+		}
+		return it->second.side;
+	}
+
 
 };
 
@@ -218,6 +257,18 @@ int main(){
 			else{
 				cout<<"Cancellation of "<<id<<" success"<<"\n";
 			}
+		}
+		// modify the order price or q
+		else if(cmd=="M"){
+			string id;
+			cin>>id;
+			ll np;
+			ll nq;
+			cin>>np>>nq;
+			ob.modifyOrder(id,np,nq);
+		}
+		else if(cmd=="P"){
+			ob.printBook();
 		}
 		else{
 			cout<<"UNKNOWN COMMAND "<<cmd<<"\n";
