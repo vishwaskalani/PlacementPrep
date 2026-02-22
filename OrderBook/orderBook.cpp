@@ -110,7 +110,7 @@ class OrderBook {
 
 	uint64_t now;
 
-	map<ll,PriceLevel, greater<ll>> bids;
+	map<ll,PriceLevel, greater<ll>> bids; // highest bid first
 	map<ll,PriceLevel> asks;
 
 	map<string,OrderLocator> orderMap;
