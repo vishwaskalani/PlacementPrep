@@ -21,7 +21,8 @@ public:
     {
     }
 
-    virtual ~Derived() // note: not virtual (your compiler may warn you about this)
+	//Base destructor virtual alone is enough
+    ~Derived() // note: not virtual (your compiler may warn you about this)
     {
         cout << "Calling ~Derived()\n";
         delete[] m_array;
